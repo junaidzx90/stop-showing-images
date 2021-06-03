@@ -21,9 +21,7 @@ div#stopshowing_settings table tr td {
 div#stopshowing_settings table tr td input, div#stopshowing_settings table tr td textarea{
     width: 100%;
 }
-div#stopshowing_settings table tr td textarea{
-    
-}
+
 input.readonly, input[readonly], textarea.readonly, textarea[readonly] {
     background-color: #66b12221 !important;
     color: #2271b1 !important;
